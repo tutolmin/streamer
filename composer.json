@@ -1,0 +1,7 @@
+{
+    "require": {
+        "clue/ndjson-react": "^1.0",
+        "react/http": "^0.8.4",
+        "react/http-client": "^0.5.9"
+    }
+}
